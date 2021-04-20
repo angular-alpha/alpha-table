@@ -1,0 +1,21 @@
+{
+  "name": "angular-alpha",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^9.0.7",
+    "@angular/core": "^9.0.7"
+  },
+  "main": "bundles/angular-alpha.umd.js",
+  "module": "fesm5/angular-alpha.js",
+  "es2015": "fesm2015/angular-alpha.js",
+  "esm5": "esm5/angular-alpha.js",
+  "esm2015": "esm2015/angular-alpha.js",
+  "fesm5": "fesm5/angular-alpha.js",
+  "fesm2015": "fesm2015/angular-alpha.js",
+  "typings": "angular-alpha.d.ts",
+  "metadata": "angular-alpha.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.10.0"
+  }
+}
